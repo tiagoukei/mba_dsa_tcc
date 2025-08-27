@@ -1,5 +1,5 @@
 ##### TCC - MBA Data Science e Analytics - USP ESALQ
-# Título: Classificação Automatizada de Notas de Manutenção Utilizando Técnicas de PLN em Textos Livres
+# Título: Estudo comparativo de métodos de PLN e ML para classificação de falhas em equipamentos industriais
 # Aluno: Tiago Noboru Ukei
 # Orientadora: Profa. Dra. Ana Julia Righetto
 # Ano: 2025
